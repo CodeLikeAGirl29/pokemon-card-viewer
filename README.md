@@ -28,7 +28,7 @@ A React-based application that fetches Pokémon data from the PokéAPI and displ
 
 ## Demo
 
-A live demo of the project can be accessed [here](#).
+A live demo of the project can be accessed [here](https://pokemon-card-viewer-alpha.vercel.app/).
 
 ---
 
@@ -59,7 +59,7 @@ A live demo of the project can be accessed [here](#).
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. Open your browser and visit:
